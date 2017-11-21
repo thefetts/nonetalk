@@ -1,2 +1,5 @@
 ---
 name: NoneTalk
+buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+memory: 128m
+disk_quota: 64m
